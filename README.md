@@ -35,7 +35,7 @@ These are the main components of the site in terms of structure. Together they c
 
 ### _header.php
 
-This contains the content for the top of the main pages, namely the logo div and the navigation bar. This needs to be updated when pages are added/removed or if the logo is updated and needs adjusting. The nav bar is just an unordered list &gt;ul&lt; with list items &gt;li&lt; which contain anchor links &gt;a&lt; to other pages. Each link also has a FontAwesome icon &gt;i&lt;. This should be simple to update if you follow the pattern.
+This contains the content for the top of the main pages, namely the logo div and the navigation bar. This needs to be updated when pages are added/removed or if the logo is updated and needs adjusting. The nav bar is just an unordered list &lt;ul&gt; with list items &lt;li&gt; which contain anchor links &lt;a&gt; to other pages. Each link also has a FontAwesome icon &lt;i&gt;. This should be simple to update if you follow the pattern.
 
 ### _sidebar-content.php 
 
