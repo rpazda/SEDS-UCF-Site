@@ -1,0 +1,241 @@
+<style type="text/css>
+	#wrapper {
+
+	}
+
+	#logo{
+		padding-top: 20px;
+		padding-left: 20px;
+	}
+	
+	#logoimg{
+		width: 100%
+	}
+
+
+	#header {
+		bottom: 0px;
+	}
+	#navbar{
+		width:100%;
+	}
+	#navbar a:hover, #navbar li:hover , #navbar li:focus , #navbar a:focus {
+		background-color: #F29723;
+		border: 2px;
+		border-color: #FFC300;
+		opacity: 0.99;
+		color: black;
+		border-radius: 2px;
+	}
+/*
+	#navbar{
+		width: 100%;
+		bottom:0;
+		right:0;
+
+	}
+	
+	.navbar{
+		margin-bottom: 0px !important;
+		min-height: 100px !important;
+		width: 100%;
+
+	}
+	
+	.nav{
+		padding-right: 0px !important;
+		width: 100%;
+		
+		max-height: 100%;
+	}
+
+	#navbar li{
+		text-align: center;
+		border-radius: 3px;
+		opacity: 1;
+		width: 25%;
+
+	}
+
+	#navbar ul{
+		width: 100%;
+		font-size: 1.5em;
+		padding-right: 20px;
+
+		display: inline;
+	}
+
+	#navbar a:link, #navbar a:visited{
+		text-decoration: none;
+		padding: 0.4em 1em 0.4em 1em;
+		color: #FFFFFF;
+		opacity: 1;
+		padding-top: 25px;
+		padding-bottom: 25px;
+
+	}
+
+	#navbar a:hover, #navbar li:hover , #navbar li:focus , #navbar a:focus {
+		background-color: #F29723;
+		border: 2px;
+		border-color: #FFC300;
+		opacity: 0.99;
+		color: black;
+		border-radius: 2px;
+	} 
+*/
+	#navbar {
+		font-size: 1.7em;
+	}
+	
+	.content-panel{
+		background-color: rgba(115, 115, 115, .4);
+	}
+	
+	#sidebar{
+		padding-top: 0px;
+		padding-left: 20px;
+		
+		margin-bottom:10px;
+		
+		color: rgba(100, 100, 100, 0.5);
+		color: white;
+	}
+
+	#sidebar-content{
+		padding: 20px;
+		font-size: 1.2em;
+	}
+
+	#main-content{
+		color: white;
+		font-size: 1.2em;
+		text-align:justify;	
+		text-justify:auto;
+	}
+
+	#footer{
+		margin-top:20px;
+		margin-bottom:30px;
+		padding: 20px;
+	}
+
+	ul {
+
+	}
+
+	a{
+		font-family: "Arial", sans-serif;
+	}
+
+	body{
+		background-image: url("assets/background.jpg");
+	}
+	
+	/*http://www.w3schools.com/css/css_align.asp*/
+	.center {
+		margin: auto;
+		width: 90%;
+		padding: 10px;
+	}
+	
+	tr:hover {
+		background-color: black;
+	}
+	.table-hover > tbody > tr:hover {
+		background-color: black;
+	}
+	
+	.hidden{
+		display: none;
+	}
+	
+	/*
+Include this after bootstrap.css. Add class of 
+vert-offset-top-value or vert-offset-bottom-value 
+to your Bootstrap 3 default rows to prevent row content 
+from touching the row content above or below.
+*/
+
+/* Vertical Offset Bottom */
+.vert-offset-top-12{
+    margin-top: 12em;
+}
+.vert-offset-top-11{
+    margin-top: 11em;
+}
+.vert-offset-top-10{
+    margin-top: 10em;
+}
+.vert-offset-top-9{
+    margin-top: 9em;
+}
+.vert-offset-top-8{
+    margin-top: 8em;
+}
+.vert-offset-top-7 {
+    margin-top: 7em;
+}
+.vert-offset-top-6{
+    margin-top: 6em;
+}
+.vert-offset-top-5{
+    margin-top: 5em;
+}
+.vert-offset-top-4{
+    margin-top: 4em;
+}
+.vert-offset-top-3{
+    margin-top: 3em;   
+}
+.vert-offset-top-2{
+    margin-top: 2em;
+}
+.vert-offset-top-1{
+    margin-top: 1em;
+}
+.vert-offset-top-0{
+    margin-top: 0em;
+}
+/* Vertical Offset Bottom */
+.vert-offset-bottom-12{
+    margin-bottom: 12em;
+}
+.vert-offset-bottom-11{
+    margin-bottom: 11em;
+}
+.vert-offset-bottom-10{
+    margin-bottom: 10em;
+}
+.vert-offset-bottom-9{
+    margin-bottom: 9em;
+}
+.vert-offset-bottom-8{
+    margin-bottom: 8em;
+}
+.vert-offset-bottom-7{
+    margin-bottom: 7em;
+}
+.vert-offset-bottom-6{
+    margin-bottom: 6em;
+}
+.vert-offset-bottom-5{
+    margin-bottom: 5em;
+}
+.vert-offset-bottom-4{
+    margin-bottom: 4em;
+}
+.vert-offset-bottom-3{
+    margin-bottom: 3em;
+}
+.vert-offset-bottom-2{
+    margin-bottom: 2em;
+}
+.vert-offset-bottom-1{
+    margin-bottom: 1em;
+}
+.vert-offset-bottom-0{
+    margin-bottom: 0em;
+}
+
+</style>
