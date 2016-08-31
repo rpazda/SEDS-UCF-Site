@@ -15,7 +15,7 @@ The assets folder is the storage place for visual content for the site, such as 
 
 The content folder is for storing libraries and frameworks for the site, such as BootStrap, FontAwesome, and any custom scripts that may be needed for the site. There is a folder specifically for JavaScript/JQuery scripts but this is not in use right now.
 
-## dev
+### dev
 
 The dev folder is for assorted files used for development but not strictly part of the site. It contains the boneyard, a place for files not currently being used but that may be useful in the future. Also here is a template for main pages. This should be a full combined version of the two components of the layout, top and bottom, which will be discussed below. The template can be used to test modifications to the main layout. It is important to make sure it has the current code from the layout components and you understand how they work before making changes.
 
