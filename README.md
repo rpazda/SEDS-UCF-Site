@@ -1,6 +1,9 @@
 # SEDSUCF
 SEDS UCF Website
 
+http://mae.ucf.edu/mmae/seds/
+
+
 ## Overview
 
 The site was designed to be simple, clean, and easy to update with relatively little experience. The site is mostly self-contained and is written in HTML and CSS with a bit of PHP and support for JavaScript/JQuery but none implemented for now. The primary usage of PHP here is to make the site modular in the interest of reducing unnecessary duplication. The consequence of modularity is that there are lots of small files that rely on each other. The benefit is that if you know where the component you want to change is you probably only have to change it in one place.
