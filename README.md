@@ -1,7 +1,8 @@
 # SEDSUCF
 SEDS UCF Website
 
-http://mae.ucf.edu/mmae/seds/
+~~http://mae.ucf.edu/mmae/seds/~~
+Website has been rewritten by newer webmaster
 
 
 ## Overview
